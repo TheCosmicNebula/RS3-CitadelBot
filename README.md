@@ -1,4 +1,4 @@
-![Version](https://img.shields.io/badge/VERSION-3.0-informational?style=for-the-badge) ![LICENSE](https://img.shields.io/badge/LICENSE-Custom-red) ![Repo Size](https://img.shields.io/github/repo-size/TheCosmicNebula/RS3-CitadelBot?label=REPO%20SIZE&style=for-the-badge) ![Open Issues](https://img.shields.io/github/issues/TheCosmicNebula/RS3-CitadelBot?style=for-the-badge) ![Closed Issues](https://img.shields.io/github/issues-closed/TheCosmicNebula/RS3-CitadelBot?color=green&style=for-the-badge)
+![Version](https://img.shields.io/badge/VERSION-3.0-informational?style=for-the-badge) ![LICENSE](https://img.shields.io/badge/LICENSE-Custom-red?style=for-the-badge) ![Repo Size](https://img.shields.io/github/repo-size/TheCosmicNebula/RS3-CitadelBot?label=REPO%20SIZE&style=for-the-badge) ![Open Issues](https://img.shields.io/github/issues/TheCosmicNebula/RS3-CitadelBot?style=for-the-badge) ![Closed Issues](https://img.shields.io/github/issues-closed/TheCosmicNebula/RS3-CitadelBot?color=green&style=for-the-badge)
 
 # RS3-CitadelBot
 A Discord bot to track RuneScape 3 Citadel reset ticks, capping and resources.
