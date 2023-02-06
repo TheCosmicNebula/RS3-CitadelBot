@@ -7,6 +7,8 @@ This Bot is run locally on your machine, or a server. You can also use a hosting
 
 This Bot may be available without a local running in the future, depentant on popularity.
 
+This Bot is fully transparent, the code used is all publicly available to be viewed, in an effort for better security.
+
 ## Setup
 - Head to the [Discord Developer Portal](https://discord.com/developers/applications)
 - Follow the instructions to [Setup a Bot Application](https://discord.com/developers/docs/getting-started)
