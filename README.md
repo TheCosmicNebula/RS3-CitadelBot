@@ -3,6 +3,9 @@
 # RS3-CitadelBot
 A Discord bot to track RuneScape 3 Citadel reset ticks, capping and resources.
 
+## Setup
+![Tutorial](https://github.com/TheCosmicNebula/RS3-CitadelBot/blob/main/TUTORIAL)
+
 ## Licence
 This repo does not have a licence. This means that by default, it is All Rights Reserved. However, due to having complete control over what rights that includes, here is a list of what you can and cannot do:
 
