@@ -3,6 +3,10 @@
 # RS3-CitadelBot
 A Discord bot to track RuneScape 3 Citadel reset ticks, capping and resources.
 
+This Bot is run locally on your machine, or a server. You can also use a hosting service.
+
+This Bot may be available without a local running in the future, depentant on popularity.
+
 ## Setup
 - Head to the [Discord Developer Portal](https://discord.com/developers/applications)
 - Follow the instructions to [Setup a Bot Application](https://discord.com/developers/docs/getting-started)
