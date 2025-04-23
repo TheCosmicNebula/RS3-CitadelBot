@@ -1,0 +1,12 @@
+[22:36:51] Beginning System Load
+[22:36:51] System version 1.0r
+[22:36:51] Attempting Discord API Connection
+2023-01-30 22:36:51.345+0000 INFO org.javacord.core.util.logging.ExceptionLoggerDelegateImpl No Log4j2 compatible logger was found. Using default Javacord implementation!
+[22:36:53] Discord API Connection Successful
+[22:36:53] System Load Complete
+[22:36:53] Loaded IDs: [ commands: 1068942966057611284, logging: 1068940375215054938 ]
+[22:36:53] Loaded Reset: [ day: saturday, time: 16:00 ]
+[22:36:53] Server (id: 1068938396271136778, name: CitadelBot Test Server)
+[22:36:53] <CitadelTick> tick
+[22:39:39] <check> success
+[22:39:44] <check> success

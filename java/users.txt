@@ -1,0 +1,12 @@
+[{
+  "capped_week": false,
+  "user_id": "",
+  "times_capped": 40,
+  "weeks_since_last_capped": 1,
+  "accounts": [{
+    "times_capped": 10,
+    "capped": false,
+    "account_name": "CosmicNebu1a"
+  }],
+  "discord_name": "TheCosmicNebula_"
+}]

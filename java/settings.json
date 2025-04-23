@@ -1,0 +1,39 @@
+[
+  {
+    "admin_role_id": "",
+    "ping_role_id": "",
+    "bot_member_id": "",
+    "server_id": ""
+  },
+  {
+    "announce_id": "",
+    "commands_id": ""
+  },
+  {"command_prefix": "!"},
+  {
+    "citadel_reset_day": "friday",
+    "citadel_reset_time": "18:50"
+  },
+  {
+    "activity_type": 3,
+    "activity_desc": "The Reaper Squad Citadel"
+  },
+  {"timer_interval_mins": 5},
+  {
+    "clan_name": "The Reaper Squad",
+    "clan_world": 88
+  },
+  {
+    "incentive": "",
+    "previous_goal": 0,
+    "current_cappers": 0,
+    "week_capped": false,
+    "goal_complete": false,
+    "locked": false,
+    "current_goal": 10,
+    "previous_cappers": 0,
+    "open": false
+  },
+  {"resource_emoji": true},
+  {"bot_owner": ""}
+]
